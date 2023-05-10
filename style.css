@@ -222,6 +222,9 @@ p.star {
 
   }
   @media only screen and (max-width: 630px){
+    .switch {
+      right: 26%;
+  }
     .inner-img {
         width: calc(100% - 40px);
     }
